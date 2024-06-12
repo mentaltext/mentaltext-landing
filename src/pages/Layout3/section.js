@@ -32,7 +32,7 @@ const section = () => {
                       <div className="icon android">
                         <a style={{
                           color: "white"
-                        }} href='https://expo.dev/artifacts/eas/v2nm1sE6zA4n3QSVwXK1U1.apk'> <i className="uil uil-android"> </i></a>
+                        }} href='https://expo.dev/artifacts/eas/bPw8nayCFSiVcvhPJMq1dg.apk'> <i className="uil uil-android"> </i></a>
                       </div>
                     </div>
                   </div>
